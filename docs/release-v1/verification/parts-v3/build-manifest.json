@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "bundleID": "com.ztmpa.Lirtrilner",
+  "minimumOS": "15.0",
+  "signed": false,
+  "archive": "build-artifacts/Lirtrilner-1.0-parts-v3-unsigned.xcarchive",
+  "appLogicalBytes": 18457449,
+  "parts": {
+    "design/parts-v3/source/Lirtrilner-battery-v3.png": "04eaddef41f41590344e008bf77718619bbbaa7340054c5ecb40b90e490dcd0a",
+    "design/parts-v3/source/Lirtrilner-gear-v3.png": "b4f460c4ffa590951276268a96aea16f049674e58788abdcd6ac10d347c58f8e"
+  }
+}

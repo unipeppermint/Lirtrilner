@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-28",
+  "toolchain": "Xcode 26.6 (17F113), iOS SDK 26.5",
+  "bundleID": "com.ztmpa.Lirtrilner",
+  "minimumOS": "15.0",
+  "deviceFamily": [
+    1
+  ],
+  "version": "1.0",
+  "build": "1",
+  "signed": false,
+  "coreTests": {
+    "count": 14,
+    "failures": 0,
+    "referenceLevels": 66
+  },
+  "renderAudit": {
+    "iphone17pro": 52,
+    "iphone-se3": 52
+  },
+  "appLogicalBytes": 1297952,
+  "executableSHA256": "a62b5c7622d8e540ba8d18ed4893aa8228d75b6802273e411dfb297bd5d39a79",
+  "sources": {
+    "Lirtrilner/AppDelegate.swift": "b3f599628dc6b1e7553f7312c97dd141119ef58415443e14afced7a842b2d5c0",
+    "Lirtrilner/Assets.xcassets/AccentColor.colorset/Contents.json": "9af65086fa30b49252fae1a1225731691de794f7775af74d71befeb507d12b7c",
+    "Lirtrilner/Assets.xcassets/AppIcon.appiconset/Contents.json": "6a149bb64db880ba1b6c500be1e5078c69907fc299da96228e53610b1fe65f16",
+    "Lirtrilner/Assets.xcassets/AppIcon.appiconset/Lirtrilner-icon.png": "21732f7fb04677779d5167292f05a21ca0343c320fe98ac86456f7bea9e224cc",
+    "Lirtrilner/Assets.xcassets/Contents.json": "0fd49ba3c3585c709678e0046a821c3c60685ec7063720d30d3a3448be3a208b",
+    "Lirtrilner/Base.lproj/LaunchScreen.storyboard": "7f259a66fcc7dd12928bbf681c6d9fbe78aa1afd6e0c46f4d2bd8f71d8d9b92f",
+    "Lirtrilner/Core/LirtrilnerBoardEngine.swift": "1e73349c15f892e567093ed4a508b134622dafcbc674c03681ee5ff30b2be4c6",
+    "Lirtrilner/Core/LirtrilnerHintSolver.swift": "b0aa6222b645bb336da806aa2bd843ce58cb891da508b7ada553911a3fff3760",
+    "Lirtrilner/Core/LirtrilnerModels.swift": "b85a5f968d41122cf9e1f5ed61008fbbeee079eacbc9b9f2035884dbe47f6d61",
+    "Lirtrilner/Core/LirtrilnerRepository.swift": "36075c53b409675189b1ec8001828b3b753ef1a97b4fd76f1d27ba2035807238",
+    "Lirtrilner/Core/LirtrilnerSaveStore.swift": "fa4d8e6a5b77694f7cf3a16ac0ed0b4b50ff548c630fe8e0565fe56f8bdf1347",
+    "Lirtrilner/Info.plist": "3d3466f0b0c4ad36926330af397ac5e44bedade543158ece5fb20b5d01bf8be8",
+    "Lirtrilner/Lirtrilner-complete.wav": "e6dce47c29741a53bdf51f66ba3ab4054d4e07ab5fbe81cb2afcaacf0e1d8a65",
+    "Lirtrilner/Lirtrilner-deliver.wav": "8fd4256c677035176f9622391e1d35aa8373be78bf0d617c0d3004e027b3332b",
+    "Lirtrilner/Lirtrilner-fail.wav": "3ff998ca2c21c97b528ac9053fc56ef1fcff81fd69bb38a4bbe9baa68acfd19d",
+    "Lirtrilner/Lirtrilner-levels.json": "53dc3868e26ab2ca540193f2f88682f0d93039d4dcddcd7a989c8746dc5a4612",
+    "Lirtrilner/Lirtrilner-merge.wav": "b74b2ff5722f8cd00b7ef624bbafe8b084fef2fa7e3e093704aa686361c8a01f",
+    "Lirtrilner/Lirtrilner-move.wav": "37c42e47fb39f985149dc604bc50efe05a5560f2bcd4d1dce82eb4d8302e6524",
+    "Lirtrilner/Lirtrilner-music.wav": "9d41c32d3cc882e1b8968e11db013de7a3b59a55f4da9cf80bea4bb7e0817541",
+    "Lirtrilner/LirtrilnerAudioService.swift": "13266a0d5721a6de1b1779e5dcb93dfac4562eefc060a612a91b818c78cfc237",
+    "Lirtrilner/LirtrilnerBoardView.swift": "1588cf1c2717f167221db90ea39eecbe3f17869331730a593a7cc78ad3b593a8",
+    "Lirtrilner/LirtrilnerGameViewController.swift": "9d784a374c955d47ee265319868665c42d3a7970248bf36c34a63c7434eb5857",
+    "Lirtrilner/LirtrilnerPartView.swift": "064dda4761b9a4fcb469849ce30ff851d1758d73d5de70bf81e7fc8b1998ef38",
+    "Lirtrilner/LirtrilnerRenderAudit.swift": "46645193da64380a4c2a931135bdfb592cc9065e40e2e3aec098ac62cb71c38b",
+    "Lirtrilner/LirtrilnerSettingsPages.swift": "66c578fa73e196705b82ea8999ad66a1bb77b3cf81a4155dfa453d1e2a2ca8ea",
+    "Lirtrilner/LirtrilnerStyle.swift": "23b1be0549aaba82b2614f2f4b3de228059c4f2272484773303c768a21be1648",
+    "Lirtrilner/LirtrilnerToyView.swift": "e70d2181b6a2fa5bccfb3501834cc0ebbf916b7323e3fddc50255dd876b31914",
+    "Lirtrilner/LirtrilnerWorkshopPages.swift": "dbd203fe486374ce91d1d7526bd27897fb0c7cfaa26ed3a8dd668f61831f0dee",
+    "Lirtrilner/PrivacyInfo.xcprivacy": "80786716c3d3883870940efc2559177240bc5ce812f5ea63801f0a12d9159c91",
+    "Lirtrilner/SceneDelegate.swift": "f9ad06bc9643eabf3241c14d565c7c7f5d1b353b9860c22aefd9b6ab2c3af917",
+    "Lirtrilner/en.lproj/InfoPlist.strings": "fca6b255459a9706a58cf479630549a00c40a4369b718d703ec5115a32a4575d",
+    "Lirtrilner/zh-Hans.lproj/InfoPlist.strings": "164bcafb458eb44692570d96c3637a90bb61f84f809d3c2f90aca7996f36c15c"
+  },
+  "limits": [
+    "No physical devices connected",
+    "No touch/VoiceOver/manual GUI validation",
+    "No 30-minute performance run or five-person playtest",
+    "Unsigned archive only; no upload or submission"
+  ]
+}

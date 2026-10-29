@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Xcode build output
+build/
+DerivedData/
+/build-artifacts/
+*.xcarchive
+*.xcresult
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Xcode user-specific settings
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager generated files
+.build/
+.swiftpm/*
+# Keep shared Swift package schemes under version control.
+!.swiftpm/xcode/
+.swiftpm/xcode/*
+!.swiftpm/xcode/xcshareddata/
+
+# Local editor files
+*.swp
+*.swo
+*~
+
+# Generated release packages and render audit output
+/docs/Lirtrilner-Release-*.zip
+/docs/release-*/verification/**/*.png
+/docs/release-*/verification/**/*.log
+
+# Python tool caches
+__pycache__/
+*.py[cod]
+.venv/

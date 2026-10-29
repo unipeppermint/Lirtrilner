@@ -1,0 +1,10972 @@
+[
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-01",
+    "number": 1,
+    "daily": false,
+    "toy": 0,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 3,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-02",
+    "number": 2,
+    "daily": false,
+    "toy": 0,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 4,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-03",
+    "number": 3,
+    "daily": false,
+    "toy": 0,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 4,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-04",
+    "number": 4,
+    "daily": false,
+    "toy": 1,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-05",
+    "number": 5,
+    "daily": false,
+    "toy": 1,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-06",
+    "number": 6,
+    "daily": false,
+    "toy": 1,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-07",
+    "number": 7,
+    "daily": false,
+    "toy": 2,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-08",
+    "number": 8,
+    "daily": false,
+    "toy": 2,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-09",
+    "number": 9,
+    "daily": false,
+    "toy": 2,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-10",
+    "number": 10,
+    "daily": false,
+    "toy": 3,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-11",
+    "number": 11,
+    "daily": false,
+    "toy": 3,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-12",
+    "number": 12,
+    "daily": false,
+    "toy": 3,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-13",
+    "number": 13,
+    "daily": false,
+    "toy": 4,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-14",
+    "number": 14,
+    "daily": false,
+    "toy": 4,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-15",
+    "number": 15,
+    "daily": false,
+    "toy": 4,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-16",
+    "number": 16,
+    "daily": false,
+    "toy": 5,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-17",
+    "number": 17,
+    "daily": false,
+    "toy": 5,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-18",
+    "number": 18,
+    "daily": false,
+    "toy": 5,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-19",
+    "number": 19,
+    "daily": false,
+    "toy": 6,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-20",
+    "number": 20,
+    "daily": false,
+    "toy": 6,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-21",
+    "number": 21,
+    "daily": false,
+    "toy": 6,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-22",
+    "number": 22,
+    "daily": false,
+    "toy": 7,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-23",
+    "number": 23,
+    "daily": false,
+    "toy": 7,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-24",
+    "number": 24,
+    "daily": false,
+    "toy": 7,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [
+      {
+        "index": 4,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 2,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-25",
+    "number": 25,
+    "daily": false,
+    "toy": 8,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-26",
+    "number": 26,
+    "daily": false,
+    "toy": 8,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-27",
+    "number": 27,
+    "daily": false,
+    "toy": 8,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-28",
+    "number": 28,
+    "daily": false,
+    "toy": 9,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 9,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 7,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-29",
+    "number": 29,
+    "daily": false,
+    "toy": 9,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-30",
+    "number": 30,
+    "daily": false,
+    "toy": 9,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-31",
+    "number": 31,
+    "daily": false,
+    "toy": 10,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-32",
+    "number": 32,
+    "daily": false,
+    "toy": 10,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 9,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 7,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-33",
+    "number": 33,
+    "daily": false,
+    "toy": 10,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-34",
+    "number": 34,
+    "daily": false,
+    "toy": 11,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-35",
+    "number": 35,
+    "daily": false,
+    "toy": 11,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "story-36",
+    "number": 36,
+    "daily": false,
+    "toy": 11,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 9,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 7,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-01",
+    "number": 1,
+    "daily": true,
+    "toy": 0,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-02",
+    "number": 2,
+    "daily": true,
+    "toy": 1,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-03",
+    "number": 3,
+    "daily": true,
+    "toy": 2,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 8,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-04",
+    "number": 4,
+    "daily": true,
+    "toy": 3,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 24,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 14,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-05",
+    "number": 5,
+    "daily": true,
+    "toy": 4,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-06",
+    "number": 6,
+    "daily": true,
+    "toy": 5,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-07",
+    "number": 7,
+    "daily": true,
+    "toy": 6,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-08",
+    "number": 8,
+    "daily": true,
+    "toy": 7,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 22,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 12,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-09",
+    "number": 9,
+    "daily": true,
+    "toy": 8,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-10",
+    "number": 10,
+    "daily": true,
+    "toy": 9,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-11",
+    "number": 11,
+    "daily": true,
+    "toy": 10,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-12",
+    "number": 12,
+    "daily": true,
+    "toy": 11,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 21,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 11,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-13",
+    "number": 13,
+    "daily": true,
+    "toy": 0,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-14",
+    "number": 14,
+    "daily": true,
+    "toy": 1,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-15",
+    "number": 15,
+    "daily": true,
+    "toy": 2,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-16",
+    "number": 16,
+    "daily": true,
+    "toy": 3,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 21,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 11,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-17",
+    "number": 17,
+    "daily": true,
+    "toy": 4,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-18",
+    "number": 18,
+    "daily": true,
+    "toy": 5,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-19",
+    "number": 19,
+    "daily": true,
+    "toy": 6,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 1
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-20",
+    "number": 20,
+    "daily": true,
+    "toy": 7,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 21,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 11,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-21",
+    "number": 21,
+    "daily": true,
+    "toy": 8,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-22",
+    "number": 22,
+    "daily": true,
+    "toy": 9,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-23",
+    "number": 23,
+    "daily": true,
+    "toy": 10,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 3
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-24",
+    "number": 24,
+    "daily": true,
+    "toy": 11,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 1
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 21,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 11,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "left",
+        "index": 1
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-25",
+    "number": 25,
+    "daily": true,
+    "toy": 0,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-26",
+    "number": 26,
+    "daily": true,
+    "toy": 1,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "down",
+        "index": 3
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-27",
+    "number": 27,
+    "daily": true,
+    "toy": 2,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 2,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 4
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "left",
+        "index": 2
+      },
+      {
+        "direction": "up",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-28",
+    "number": 28,
+    "daily": true,
+    "toy": 3,
+    "stage": 1,
+    "board": [
+      {
+        "terrain": "delivery"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 1
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 2,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 12,
+    "supplies": [
+      {
+        "index": 21,
+        "kind": "battery",
+        "level": 1
+      },
+      {
+        "index": 11,
+        "kind": "battery",
+        "level": 1
+      }
+    ],
+    "reference": [
+      {
+        "direction": "up",
+        "index": 2
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 3
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 4
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "up",
+        "index": 1
+      },
+      {
+        "direction": "left",
+        "index": 0
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-29",
+    "number": 29,
+    "daily": true,
+    "toy": 4,
+    "stage": 2,
+    "board": [
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "gear",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "battery",
+          "level": 2
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "gear",
+        "level": 3,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "battery",
+        "level": 3,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 1
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 2
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "right",
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "id": "daily-30",
+    "number": 30,
+    "daily": true,
+    "toy": 5,
+    "stage": 3,
+    "board": [
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 4,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 3,
+          "kind": "gear",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 5,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 6,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "obstacle"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 1,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal",
+        "part": {
+          "id": 2,
+          "kind": "battery",
+          "level": 3
+        }
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "normal"
+      },
+      {
+        "terrain": "delivery"
+      }
+    ],
+    "orders": [
+      {
+        "kind": "battery",
+        "level": 4,
+        "required": 2,
+        "delivered": 0
+      },
+      {
+        "kind": "gear",
+        "level": 4,
+        "required": 1,
+        "delivered": 0
+      }
+    ],
+    "moveLimit": 10,
+    "supplies": [],
+    "reference": [
+      {
+        "direction": "right",
+        "index": 3
+      },
+      {
+        "direction": "down",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 1
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      },
+      {
+        "direction": "down",
+        "index": 2
+      },
+      {
+        "direction": "right",
+        "index": 4
+      },
+      {
+        "index": 0
+      }
+    ]
+  }
+]

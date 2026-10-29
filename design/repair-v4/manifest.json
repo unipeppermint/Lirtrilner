@@ -1,0 +1,14 @@
+[
+  {
+    "name": "obstacle",
+    "prompt": "Use case: stylized-concept. Asset type: isolated production sprite for an iOS puzzle board.\nReference image: use ONLY the dark square obstacle tiles in the CENTER phone's board as the exact visual design reference. Recreate one of those obstacle blocks faithfully at high resolution: square charcoal cast-metal plate with softly rounded corners, a fine raised dark steel bevel around the square, four small recessed screw heads at its corners, a raised circular dark steel medallion in the middle, and a large clearly recessed black diagonal X cut into that medallion. The X is the obstacle identifier and must be visible. Top-down almost orthographic view, symmetrical geometry, very slight thickness visible at bottom, soft upper-left warm light, refined miniature toy-game material, delicate clean grain. Matte gunmetal gray, not blue, not silver chrome, not gold, not rusty. The whole square plate occupies 90% of square canvas, centered with transparent margins and a tiny soft contact shadow. Real transparent alpha background. Single block only, no board, no tile behind it, no text or other symbols. Match the reference closely rather than redesigning it.",
+    "alpha": true,
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-75ad3f0d-5967-4b02-b1de-e9d123c12853.png"
+  },
+  {
+    "name": "delivery",
+    "prompt": "Use case: stylized-concept. Asset type: isolated production sprite for the delivery destination tile in an iOS toy repair puzzle.\nUse ONLY the small golden robot-face destination tile in the CENTER phone board of the reference. Recreate it as one refined square token: a warm golden-yellow enamel socket frame, softly rounded square corners, inset amber recess, four tiny brass corner screws, a small cute red-and-ivory wind-up robot FACE medallion centered in the recess, with two glossy dark eyes, cream inset face and a tiny smiling mouth, round brass ears and red antenna. Head only, no full body. Exact frontal view nearly orthographic, slight toy-like thickness at lower edge, upper-left warm highlights, clean tactile rounded 3D game-art matching reference. Entire token including antenna within 90% square canvas, generous transparent margins, subtle contact shadow. True transparent alpha background. No numerals, letters, labels, UI, additional objects, no workshop backdrop. Avoid heavily distressed metal or elaborate ornament. Clearly a golden delivery socket with friendly robot face.",
+    "alpha": true,
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-d59bf2ad-2512-4a98-b8ea-c96ae7df2da8.png"
+  }
+]

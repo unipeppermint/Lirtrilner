@@ -1,0 +1,104 @@
+[
+  {
+    "name": "robot",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: production iOS game art.\nA single full-body red-and-ivory vintage wind-up robot, faithful to the robot in the reference: rounded square red enamel head, ivory inset face, two glossy black eyes with ivory rims, tiny smiling mouth, brass circular ears, small red ball antenna, cream torso with red edges and brass chest cog, jointed cream arms and red boots, a visible brass winding key on its right side. Standing relaxed, facing slightly left of camera with both eyes visible, entire silhouette including winding key and feet, 10% empty margin. Camera mildly above eye level, high-end tactile 3D toy photography, fine enamel wear and brass machining, charming proportions, warm light from upper left. The reference is STYLE AND CHARACTER guidance only, NOT a UI to reproduce. Isolated object on actual transparent alpha background; no ground plane, no scenery, no text, no labels, no UI, no extra toys. 1024 square.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-e0f02278-85a5-4a2e-8926-bf455a6ee661.png"
+  },
+  {
+    "name": "train",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: production iOS game art.\nA single beautiful blue vintage tin wind-up toy steam locomotive matching the little train seen in the reference. Deep cornflower-blue enamel boiler and cab, dark blue cab roof, cream window panes, red wheels with brass hubs and side rod, brass round front lamp and short chimney, subtle authentic edge wear. Full locomotive facing three-quarter left, entire silhouette, 10% clear margin. Premium tactile 3D toy photography, warm directional light from upper left, detailed painted metal and brass. The reference is STYLE guidance only, NOT a UI to reproduce. Actual transparent alpha background, isolated single toy, no rails, no ground plane, no scenery, no words, no UI, no extra objects. 1024 square.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-67a1f452-cb10-4f9c-b278-7e1a1131b5d9.png"
+  },
+  {
+    "name": "workshop",
+    "alpha": false,
+    "prompt": "Use case: stylized-concept. Asset type: production iOS game art.\nCreate the EMPTY workshop environment plate from the visual language of the reference, for an iPhone toy repair game. Warm honey oak workbench, softly defocused nostalgic repair shop, sunlight entering a tall window on the left, sage-green desk lamp near left edge, a few small brass tools and glass parts jars at extreme side edges, pegboard tools in the softly blurred rear. Most important: a broad EMPTY clear wooden surface in the lower half and EMPTY quiet central area, ready for a separately composited toy; no large foreground objects, no main toy or character. Landscape 3:2 composition suitable for a hero card, eye-level three-quarter scene, beautiful tangible wood grain and warm ambient bounce, premium charming 3D miniature photography. Match the reference's warm cinematic lighting and depth, not flat vector art. No text, no numbers, no interface, no frames or phone silhouette.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-3cbed591-3cb4-4fa3-8628-f12e7c30c7b0.png"
+  },
+  {
+    "name": "app-icon",
+    "alpha": false,
+    "prompt": "Use case: stylized-concept. Asset type: production iOS game art.\nCreate a polished iOS app icon based on the reference's charming red-and-ivory wind-up robot. Square 1024x1024 FULL BLEED opaque artwork (no rounded outer corners; iOS applies its own mask). Large expressive robot head and upper torso filling 80% of square, two glossy dark eyes, ivory face inset in red enamel rounded-square head, brass ear discs, small red ball antenna, small brass cog on chest. Three-quarter frontal view looking toward viewer. A brass winding key peeks over its right shoulder. Rich warm caramel and cream workshop bokeh background, high-end 3D miniature toy render, soft upper-left light, appealing material texture, extremely clear silhouette at small sizes. Reference is STYLE AND CHARACTER guidance only. No text, no UI symbols, no borders, no logos, no other characters, no transparency.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-9af08f7d-3072-4235-8b6b-7ef9a0edae7b.png"
+  },
+  {
+    "name": "carousel",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A beautiful mint-green vintage carousel music box, scalloped conical canopy topped with a brass finial, ivory-and-brass trim, three small ivory horses on brass poles, detailed round mint base with winding key, like the carousel in the reference.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-943416bc-210c-417f-9ae7-ac58d41972cc.png"
+  },
+  {
+    "name": "plane",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A small red-and-ivory vintage tin biplane, two stacked red wings with brass struts, cream fuselage, brass nose with a cream two-blade propeller, tiny dark rubber landing wheels, friendly rounded proportions.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-0d4245fd-ea02-41d5-ac9a-7f496e18f50f.png"
+  },
+  {
+    "name": "duck",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A cute golden-yellow wind-up tin duck with a rounded body, ivory belly and sculpted wing, little glossy black eyes, orange-red beak and webbed feet, a small brass winding key on the visible side.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-082352ea-42cd-4c9d-97c6-143b31f4e168.png"
+  },
+  {
+    "name": "camera",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A gorgeous tiny retro toy camera, deep dusty blue painted metal body with cream panels, a large round brass-and-dark-glass lens, red shutter button, little brass viewfinder, charming chunky rounded corners. Clearly a toy camera, no branding.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-30db2fc5-51ad-4598-b7b9-747e06b91ea8.png"
+  },
+  {
+    "name": "car",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A charming small cherry-red vintage wind-up toy car, rounded 1930s coupe body, ivory roof and window frames, dark tires with brass hubcaps, small round brass headlights and cream bumper, visible small winding key.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-8a2f752b-0284-4ce3-ac1a-6ff0bbeee4d7.png"
+  },
+  {
+    "name": "bear",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A charming warm honey-brown mechanical toy teddy bear with visible enamel/painted-metal material rather than real fur, round ears with cream inner ears, cream muzzle, glossy black eyes, small coral bow tie, blue waistcoat, jointed arms and feet, a little brass winding key.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-d7837b2b-c060-40ed-9f01-d2c2102b3604.png"
+  },
+  {
+    "name": "drummer",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A charming little vintage tin toy drummer with ivory smiling face and black bead eyes, coral red toy soldier jacket with brass buttons, dark blue trousers and red cap with gold trim, holding two little drumsticks over a blue-and-ivory drum with brass rim. Friendly toy, no weapons, rounded proportions.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-2d8c8c7d-5a35-40de-9455-008171feb8e6.png"
+  },
+  {
+    "name": "horse",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A beautiful vintage wooden rocking horse, honey-cream painted wood, red saddle and deep blue bridle, sculpted short mane and tail, brass fittings, two curved dark cherry-red wooden rockers, refined toy craftsmanship and gently rounded friendly face.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-7cd2195a-ffa7-4ed2-89c0-8702756a17b7.png"
+  },
+  {
+    "name": "dog",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A friendly vintage mint-green and ivory mechanical toy puppy, floppy dark blue ears, glossy black eyes, small black nose, little red collar, brass joint fittings and winding key, four little legs with small wheel-like brass feet, curved wagging tail.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-2878a3d9-1969-42ed-8425-0c9f427cc8f5.png"
+  },
+  {
+    "name": "ferris",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: isolated production game toy. Use the supplied reference ONLY for cohesive material, palette and lighting style. A premium charming miniature toy in the SAME warm 3D vintage workshop visual world. Rounded forms, painted enamel metal, warm brass fittings, very subtle worn edges (not heavily distressed), polished yet handmade, studio soft light from upper left. Full object in three-quarter view, entire silhouette and winding key fully inside frame, occupy around 75% of square with generous clear margin. Actual transparent alpha background. No ground plane, no background, no lettering, no numerals, no logos, no UI, no people, no unrelated props. Single object only. A charming miniature wind-up toy Ferris wheel, warm brass circular wheel and spokes, six clearly separated rounded gondolas alternating mint green, red and cream, deep blue support legs and an ivory rounded rectangular base, tiny brass winding key. Symmetric well-made toy construction.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-946b7a37-c62d-4120-a201-fa79a38d2f87.png"
+  },
+  {
+    "name": "gear",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: 5x5 mobile board tile icon. One single coral-red enamel gear cog matching the red game pieces in the reference. Nearly front-on orthographic view, thick rounded brass-edged teeth, softly bevelled polished enamel, subtle highlights and contact depth. Center is a LARGE smooth blank dark coral circular medallion for a white Roman numeral to be added by native UI later. No center hole, no letter, no numeral, no bolt, no symbol. Gear occupies 85% of square. Transparent background, no scenery, no extra objects, crisp silhouette for 48pt rendering.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-b2ba5913-e160-4138-a3ab-118338a01e75.png"
+  },
+  {
+    "name": "battery",
+    "alpha": true,
+    "prompt": "Use case: stylized-concept. Asset type: 5x5 mobile board tile icon. One single upright mint-green enamel battery-shaped toy part matching the green pieces in the reference. Nearly front-on orthographic view, rounded rectangular body, tiny raised terminal cap at top, softly bevelled edges with brass rim, gentle highlight on upper left. Center is a LARGE smooth blank dark mint panel for a white Roman numeral to be added by native UI later. No lightning bolt, no text, no letters, no numeral. Occupy 82% of square, transparent background, no scenery or extra objects, clear distinct battery silhouette for 48pt rendering.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-e6c1a83d-cde2-4a4c-9cde-25f6706a092e.png"
+  },
+  {
+    "name": "wood",
+    "alpha": false,
+    "prompt": "Use case: stylized-concept. Asset type: mobile board tray material. Square closeup top-down honey oak wooden surface in the same warm handcrafted toy workshop style as reference. Fine delicate horizontal wood grain, soft warm edge vignette, restrained satin finish, very even center illumination. Completely empty flat surface, NO cells or grid, NO seams, NO objects, NO text, NO screws or ornaments. This image will be the backing under a native 5x5 puzzle board. Opaque square.",
+    "source": "/Users/mac/.codex/generated_images/01a181ea-604e-7273-a0bd-4712b1b7163b/exec-74ca89bb-40ed-429a-842f-30be978eb487.png"
+  }
+]
